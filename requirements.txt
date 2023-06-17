@@ -63,7 +63,7 @@ SQLAlchemy
 starlette
 sympy
 tenacity
-tiktoken
+
 tokenizers
 tomli
 tqdm
